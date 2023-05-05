@@ -12,6 +12,7 @@
 --main-theme-color: #FF5000;
 --theme-transparency: #000000d7;
 --theme-background-image: url('https://i.imgur.com/6PUJVv6.jpeg');
+--home-icon-image: url('https://i.imgur.com/duzLPgE.png');
 --home-icon-image-zoom: 100%;
 --home-icon-image-position: center;
 --server-listing-width: 72px;
